@@ -3,12 +3,43 @@
   <span class="subhead">Instructor Guide</span>
 </h1>
 
-**_Nothing here yet._**
+## Content
 
----
+| Lesson                                                                                   | Skills                                                                      |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [Setup](./setup/README.md)                                                               | Setting up the development environment.                                     |
+| [Concepts](./concepts/README.md)                                                         | Understanding the Document Object Model (DOM).                              |
+| [Selecting an Element](./selecting-an-element/README.md)                                 | Selecting elements using `querySelector()`.                                 |
+| [Modifying an Element](./modifying-an-element/README.md)                                 | Modify the `textContent` and `style` of DOM elements.                       |
+| [Creating an Element](./creating-an-element/README.md)                                   | Create and append an element in the DOM.                                    |
+| [Working with Collections of Elements](./working-with-collections-of-elements/README.md) | Using `querySelectorAll()` and `forEach()` to iterate through DOM elements. |
+| [Element Attributes](./element-attributes/README.md)                                     | Get, set, and remove attributes with JavaScript methods.                    |
+| [The `getElementById()` Method](./the-getelementbyid-method/README.md)                   | Using `getElementById()` for efficient DOM element selection.               |
+| [The `innerHTML` Property](./the-innerhtml-property/README.md)                           | Using `innerHTML` to manipulate HTML content inside DOM elements.           |
+| [Placing Elements Precisely](./placing-elements-precisely/README.md)                     | DOM methods like `after()`, `before()`, and `replaceChild()`.               |
+| [`NodeList`](./nodelist/README.md)                                                       | Converting `NodeLists` to arrays using `Array.from()` and `spread` syntax.  |
 
-🏗️ **Under Construction**
+## References
 
-We are constantly working to improve our resources for instructors and students.
+📖 [Reference Materials](./references/README.md)
 
-**Have something to contribute to this Instructor Guide?** [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback).
+## Internal
+
+### Prerequisites
+
+- Foundational HTML
+- Foundational CSS
+- Foundational JavaScript
+
+### Course landing pages
+
+- [Default Landing Page](https://ga-curriculum.github.io/intro-to-the-dom/canvas-landing-pages/fallback)
+- [SEB - Software Engineering Bootcamp](https://ga-curriculum.github.io/intro-to-the-dom/canvas-landing-pages/seb)
+
+### Resources
+
+✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🎥 [Video Hub](./internal-resources/video-hub.md)
+
+🏗️ [Release Notes](./internal-resources/release-notes.md)
