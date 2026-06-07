@@ -1,0 +1,199 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Intro to the DOM",
+    "name": "intro-to-the-dom",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Selecting an Element",
+          "dirName": "selecting-an-element",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Modifying an Element",
+          "dirName": "modifying-an-element",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Creating an Element",
+          "dirName": "creating-an-element",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Working with Collections of Elements",
+          "dirName": "working-with-collections-of-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Element Attributes",
+          "dirName": "element-attributes",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The  getElementById()  Method",
+          "dirName": "the-getelementbyid-method",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The  innerHTML  Property",
+          "dirName": "the-innerhtml-property",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Placing Elements Precisely",
+          "dirName": "placing-elements-precisely",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " Nodelist ",
+          "dirName": "nodelist",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Selecting an Element",
+          "dirName": "selecting-an-element",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Modifying an Element",
+          "dirName": "modifying-an-element",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Creating an Element",
+          "dirName": "creating-an-element",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Working with Collections of Elements",
+          "dirName": "working-with-collections-of-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Element Attributes",
+          "dirName": "element-attributes",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The  getElementById()  Method",
+          "dirName": "the-getelementbyid-method",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "The  innerHTML  Property",
+          "dirName": "the-innerhtml-property",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Placing Elements Precisely",
+          "dirName": "placing-elements-precisely",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " Nodelist ",
+          "dirName": "nodelist",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

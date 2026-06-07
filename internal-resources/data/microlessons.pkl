@@ -1,0 +1,81 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+selectingAnElement = new Template.Microlesson {
+  friendlyName = "Selecting an Element"
+  dirName = "selecting-an-element"
+  type = "Content"
+  videoUrl = ""
+}
+
+modifyingAnElement = new Template.Microlesson {
+  friendlyName = "Modifying an Element"
+  dirName = "modifying-an-element"
+  type = "Content"
+  videoUrl = ""
+}
+
+creatingAnElement = new Template.Microlesson {
+  friendlyName = "Creating an Element"
+  dirName = "creating-an-element"
+  type = "Content"
+  videoUrl = ""
+}
+
+workingWithCollectionsOfElements = new Template.Microlesson {
+  friendlyName = "Working with Collections of Elements"
+  dirName = "working-with-collections-of-elements"
+  type = "Content"
+  videoUrl = ""
+}
+
+elementAttributes = new Template.Microlesson {
+  friendlyName = "Element Attributes"
+  dirName = "element-attributes"
+  type = "Content"
+  videoUrl = ""
+}
+
+theGetelementbyidMethod = new Template.Microlesson {
+  friendlyName = "The  getElementById()  Method"
+  dirName = "the-getelementbyid-method"
+  type = "Content"
+  videoUrl = ""
+}
+
+theInnerhtmlProperty = new Template.Microlesson {
+  friendlyName = "The  innerHTML  Property"
+  dirName = "the-innerhtml-property"
+  type = "Content"
+  videoUrl = ""
+}
+
+placingElementsPrecisely = new Template.Microlesson {
+  friendlyName = "Placing Elements Precisely"
+  dirName = "placing-elements-precisely"
+  type = "Content"
+  videoUrl = ""
+}
+
+nodelist = new Template.Microlesson {
+  friendlyName = " Nodelist "
+  dirName = "nodelist"
+  type = "Content"
+  videoUrl = ""
+}
+
