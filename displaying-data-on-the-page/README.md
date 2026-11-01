@@ -18,9 +18,11 @@ We need to connect them. When our data changes, we need to update the display.
 
 ## Prepare the status board
 
-Replace the contents of your HTML `<body>` with:
+Add this Meeting Room code to your HTML `<body>` with:
 
 ```html
+<br>
+
 <h1>Meeting Room Status</h1>
 
 <p id="message">Loading office information...</p>
@@ -32,13 +34,8 @@ Replace the contents of your HTML `<body>` with:
 </ul>
 ```
 
-Keep the existing script tag that connects your JavaScript file:
 
-```html
-<script defer src="./js/app.js"></script>
-```
-
-Replace the previous practice code in `js/app.js` with:
+Add this new code in `app.js`:
 
 ```js
 const roomStatuses = ['Available', 'In use', 'Available'];
