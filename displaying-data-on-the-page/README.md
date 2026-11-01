@@ -21,7 +21,7 @@ We need to connect them. When our data changes, we need to update the display.
 Add this Meeting Room code to your HTML `<body>` with:
 
 ```html
-<br>
+<hr>
 
 <h1>Meeting Room Status</h1>
 
