@@ -50,6 +50,12 @@
           "videoUrl": ""
         },
         {
+          "friendlyName": "Displaying Data on the Page",
+          "dirName": "displaying-data-on-the-page",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
           "friendlyName": "Element Attributes",
           "dirName": "element-attributes",
           "type": "Content",
@@ -139,6 +145,12 @@
         {
           "friendlyName": "Working with Collections of Elements",
           "dirName": "working-with-collections-of-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Displaying Data on the Page",
+          "dirName": "displaying-data-on-the-page",
           "type": "Content",
           "videoUrl": ""
         },
